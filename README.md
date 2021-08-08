@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/JackXN/JackXN/blob/main/banner-2.png" alt='coolest-code-in-town'/>
+<img src="https://github.com/JackXN/JackXN/blob/main/g-banner.png" alt='coolest-code-in-town'/>
 
 
 
