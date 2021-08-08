@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://imgur.com/a/6uaNzSK ,"Header")]
+[![Header](https://imgur.com/a/6uaNzSK)]
 
 
 
