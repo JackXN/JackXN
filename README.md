@@ -8,7 +8,7 @@
 My name is Jack Rigan and i am a software developer/web designer. Originally born in Sandefjord, Norway, i moved to the states in 2013 and have been residing in Salt Lake City ever since. I have a strong passion for designing beautiful and intuitive web sites and then turning it into a live web app for the world to see.
 
 
-## �:computer: Technologies 
+## :computer: Technologies 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)e)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
