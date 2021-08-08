@@ -1,4 +1,4 @@
-
+:eight_spoked_asterisk: Available for work
 <img src="https://github.com/JackXN/JackXN/blob/main/g-banner.png" alt='coolest-code-in-town'/>
 
 # Sup Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
