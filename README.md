@@ -3,8 +3,7 @@
 
 # Sup Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Jack Rigan and i am a full stack software engineer. Originally born in Sandefjord, Norway, i moved to the states in 2013 and have been residing in Salt Lake City ever since. I have a strong passion for designing and building beautiful, intuitive web applications.
-
+My name is Jack Rigan and i am a full-stack web developer based in Salt Lake City, UT. Check out some of my projects below!
 
 
 
