@@ -3,7 +3,7 @@
 
 # Sup Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Full-stack web developer based in Salt Lake City, Utah. Check out some of my projects below
+I am a Full-stack web developer based in Salt Lake City, Utah. Check out some of my projects below
 
 
 
