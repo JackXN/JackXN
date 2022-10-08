@@ -2,6 +2,7 @@
 <p align="center"><img src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/jackrigan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href='http://www.jackrigan.com'><img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic' alt='Website Badge'/></a>
 <!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
