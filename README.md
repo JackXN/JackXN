@@ -5,7 +5,7 @@
 <a href='http://www.jackrigan.com'><img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic' alt='Website Badge'/></a>
 <!-- https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR> -->
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p> -->
 
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Based In Salt Lake City, Utah.
