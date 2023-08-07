@@ -3,9 +3,6 @@
 <p align="center">
 
 <!-- LINKED IN AND WEBSITE  -->
- <a href="https://www.linkedin.com/in/jackrigan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> -->
-<!-- <a href='http://www.jackrigan.com'><img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic' alt='Website Badge'/></a>
-
 </p>
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p> -->
 
