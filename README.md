@@ -7,8 +7,7 @@
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p> -->
 
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Based In Salt Lake City, Utah.
-
+Fullstack Web Developer based in Seattle, Washington.
 
 ---
 
