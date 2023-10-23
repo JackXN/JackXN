@@ -1,8 +1,7 @@
 
 <p align="center"><img src="/Inkly_Github_Banner.png" width="800"/></p>
 <p align="center">
-
-<!-- LINKED IN AND WEBSITE  -->
+Whatup! Im Jack, The lead developer for <a href='www.inklyapp.com' />. A vibrant ecosystem where tattoo artists come together to showcase their skills, connect with a global audience, and elevate their craft and personal businesses.
 </p>
 <!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p> -->
 
