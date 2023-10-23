@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media.giphy.com/media/h0Cq1ClzO3UpupFPjP/giphy.gif" width="100"/></p>
+<p align="center"><img src="/Inkly_Github_Banner.png" width="100"/></p>
 <p align="center">
 
 <!-- LINKED IN AND WEBSITE  -->
